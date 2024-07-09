@@ -1,0 +1,12 @@
+com.example.quiz_application.app-jetified-annotation-experimental-1.1.0-0 /home/eccentricog/.gradle/caches/transforms-3/02315cc9f75263553d2042718fc375ee/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.quiz_application.app-jetified-window-1.0.0-beta04-1 /home/eccentricog/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/res
+com.example.quiz_application.app-jetified-window-java-1.0.0-beta04-2 /home/eccentricog/.gradle/caches/transforms-3/99750bb863b6fe460a7b5da8686e778d/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.quiz_application.app-core-1.6.0-3 /home/eccentricog/.gradle/caches/transforms-3/d08c73bfb05384f2e52578171dbd141e/transformed/core-1.6.0/res
+com.example.quiz_application.app-debug-4 /home/eccentricog/dart-flutter/Flutter/Projects/quiz_application/android/app/src/debug/res
+com.example.quiz_application.app-main-5 /home/eccentricog/dart-flutter/Flutter/Projects/quiz_application/android/app/src/main/res
+com.example.quiz_application.app-pngs-6 /home/eccentricog/dart-flutter/Flutter/Projects/quiz_application/build/app/generated/res/pngs/debug
+com.example.quiz_application.app-resValues-7 /home/eccentricog/dart-flutter/Flutter/Projects/quiz_application/build/app/generated/res/resValues/debug
+com.example.quiz_application.app-rs-8 /home/eccentricog/dart-flutter/Flutter/Projects/quiz_application/build/app/generated/res/rs/debug
+com.example.quiz_application.app-mergeDebugResources-9 /home/eccentricog/dart-flutter/Flutter/Projects/quiz_application/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.quiz_application.app-mergeDebugResources-10 /home/eccentricog/dart-flutter/Flutter/Projects/quiz_application/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.quiz_application.app-merged_res-11 /home/eccentricog/dart-flutter/Flutter/Projects/quiz_application/build/app/intermediates/merged_res/debug

@@ -1,0 +1,4 @@
+#Mon Feb 12 20:43:29 IST 2024
+base.0=/home/eccentricog/dart-flutter/Flutter/Projects/quiz_application/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
